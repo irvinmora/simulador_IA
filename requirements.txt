@@ -1,0 +1,9 @@
+requests
+python-docx
+fpdf
+PyMuPDF
+pytesseract
+opencv-python
+pandas
+openpyxl
+streamlit
