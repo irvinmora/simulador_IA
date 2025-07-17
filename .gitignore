@@ -1,0 +1,10 @@
+# Ignorar entorno virtual
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos de configuración de Streamlit que pueden contener secretos
+.streamlit/secrets.toml
